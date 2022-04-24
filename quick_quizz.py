@@ -61,4 +61,4 @@ else:
 
 print("Bravo tacno si odgovorio na " + str(score) + " pitanja! " )
 print("Procenat tacnih odgovora je: " +str((score)/5 *100) + "%")
-
+input("Klikni Enter za izlazak: ")
